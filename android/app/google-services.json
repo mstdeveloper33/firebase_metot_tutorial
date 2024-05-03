@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296688137597",
+    "project_id": "flutter-firebase-dersler-986f4",
+    "storage_bucket": "flutter-firebase-dersler-986f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296688137597:android:80643c43c3d80981360814",
+        "android_client_info": {
+          "package_name": "com.developer.flutter_firebase_dersleri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16N3P0qIo26NQzoLVZpKx6sxv2M_AafE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
